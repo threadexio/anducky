@@ -3,6 +3,8 @@
 . ./template
 
 type "left-meta r"
+sleep 0.3
+
 type "h t t p s"
 type "left-shift ;"
 type "/ / w w w . y o u t u b e . c o m / w a t c h"
