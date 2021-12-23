@@ -1,0 +1,3 @@
+[submodule "hid-tester"]
+	path = hid-tester
+	url = https://github.com/threadexio/hid-tester

@@ -1,0 +1,8 @@
+#!/bin/sh
+
+. ./template
+
+type "left-meta r"
+type "p o w e r s h e l l enter"
+sleep 0.3
+type "s y s t e m i n f o enter"

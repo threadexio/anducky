@@ -1,0 +1,7 @@
+#!/bin/sh
+
+HIDG="${1:-$(find /dev -name 'hidg*' | sort | head -n1)}"
+
+type() {
+	"./hid-tester" "$HIDG" "$@"
+}
