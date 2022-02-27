@@ -4,7 +4,7 @@ A simple implementaion of the rubber ducky on Android utilizing USB gadgets and 
 
 # How to use
 
-**NOTE:** This required a root permissions to work (`PRoot` won't do)
+**NOTE:** This requires root permissions to work (`PRoot` won't do)
 
 -   Clone the repo
 
